@@ -1,5 +1,5 @@
 # Run the image
-docker run -it dseg/node7-python2-pip-yarn-alpine35
+docker run -it scottastevenson/node7-python2-pip-yarn-alpine35
 
 # Versions
 ## npm
@@ -20,7 +20,7 @@ Python 2.7.13
 
 ## Yarn
 yarn --version
-0.27.5
+1.9.4
 
 ## TypeScript
 tsc --version
