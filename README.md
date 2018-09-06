@@ -1,4 +1,4 @@
-# About the Fork
+# About
 This is a dockerfile useful for Bitbucket Pipelines.
 
 The primary difference between this fork and the popular https://github.com/dseg/node7-python2-pip-yarn-alpine35 is an updated version of Yarn (which importantly, supports workspaces out of the box).
